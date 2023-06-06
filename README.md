@@ -1,2 +1,1 @@
-# PreCourse_Henry
-Repositorio de prueba M2 Readme PreCouser Henry
+Prueba de creacion de un repositorio desde GitHub y poder asi modificarlo desde VsCode
